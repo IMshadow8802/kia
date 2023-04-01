@@ -11,7 +11,6 @@ import { Link,useNavigate,useParams} from "react-router-dom";
 import axios from "axios";
 import icon from './images/icon.jpg'
 import swal from 'sweetalert';
-import BellIcon from 'react-bell-icon'; 
 import {Login}from '../Login/Login';
 const Navbar = ()=>
 {
